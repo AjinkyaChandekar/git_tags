@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"tags","Source":"git@github.com:AjinkyaChandekar/git_tags.git?ref=v2.0_common_tags","Dir":".terraform/modules/tags"},{"Key":"tags.tags","Source":"./modules/tags","Dir":".terraform/modules/tags/modules/tags"}]}
