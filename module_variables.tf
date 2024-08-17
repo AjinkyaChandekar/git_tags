@@ -1,9 +1,9 @@
 variable "env" {
-    default = "default"
+    default = "dev"
 }
 variable "terraform" {
-    default = "default"
+    default = "true"
 }
 variable "backup" {
-    default = "default"
+    default = "yes"
 }
