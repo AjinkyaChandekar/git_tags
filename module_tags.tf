@@ -1,7 +1,7 @@
-module "tags" {
-  source = "./modules/tags"
+# module "tags" {
+#   source = "./modules/tags"
 
-  env = "dev"
-  terraform = "true"
-  backup = "yes"
-}
+#   env = "dev"
+#   terraform = "true"
+#   backup = "yes"
+# }
